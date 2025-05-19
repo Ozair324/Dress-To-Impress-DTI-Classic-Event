@@ -2,7 +2,7 @@
 
 Step into the spotlight with the ultimate **Dress To Impress (DTI) Classic Event Script**—your backstage pass to unlimited style, speed, and fashion automation. From **auto money farming** to **custom face control** and outfit cloning, this free, **keyless** script brings total control to your glam game.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Dress-To-Impress-DTI-Classic-Event/blob/main/Dress%20To%20Impress%20-%20DTI%20Classic%20Event%20Script.png)
 
 ---
 
